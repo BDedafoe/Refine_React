@@ -76,9 +76,7 @@ const updateMessage = async (req, res) => {
         const { title, message } =
             req.body;
 
-      
-
-        await Property.findByIdAndUpdate(
+        await Messages.findByIdAndUpdate(
             { _id: id },
             {
                 title,
@@ -86,7 +84,6 @@ const updateMessage = async (req, res) => {
            
             },
         );
-
         res.status(200).json({ message: "Message updated successfully" });
     } catch (error) {
         res.status(500).json({ message: error.message });
