@@ -22,13 +22,15 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
-``` ### frontend
+``` 
+### frontend
 $ cd client
 $ npm install
 $ npm run dev
 ```
 
-``` ### backend
+```
+### backend
 $ cd server
 $ npm install
 $ npm nodemon
