@@ -26,7 +26,7 @@ const startServer = async () => {
         connectDB(process.env.REACT_APP_MONGO_URI);
 
         app.listen(8080, () =>
-            console.log("Server started on port http://localhost:8080"),
+            console.log("Server started on port 8080"),
         );
     } catch (error) {
         console.log(error);
