@@ -23,7 +23,7 @@ app.use("/api/v1/messages", messagesRouter);
 
 const startServer = async () => {
     try {
-        connectDB(process.env.MONGO_URI);
+        connectDB(process.env.MONGODB_URL);
 
         app.listen(8080, () =>
             console.log("Server started on port 8080"),
