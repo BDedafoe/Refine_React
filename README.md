@@ -16,6 +16,7 @@ Project is created with:
 * Express
 * MongoDB Atlas
 * Cloudinary
+* Axios
 * Google-OAuth 2.0
 * Render
 	
