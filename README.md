@@ -18,7 +18,8 @@ Project is created with:
 * Cloudinary
 * Axios
 * Google-OAuth 2.0
-* Render
+* Render (Backend deployment)
+* Netlify (Frontend deployment)
 	
 ## Setup
 To run this project, install it locally using npm:
