@@ -1,5 +1,5 @@
 # Refine_App Dashboard
-Refine is a React-based framework for building data-intensive applications.
+Refine is a React-based framework for building data-intensive applications in a shorter period of time. I decided to test this out and create a mock rental property app.
 
 ## Table of contents
 * [General info](#general-info)
@@ -7,7 +7,7 @@ Refine is a React-based framework for building data-intensive applications.
 * [Setup](#setup)
 
 ## General info
-Full MERN Stack Rental Property app using CRUD features which provides Real Estate Agents to Create, Read, Update, and Delete rental properties and messages. Google Auth provides a safe and easy way to login and MongoDB stores all user, property and message data. 
+Full MERN Stack rental property app using CRUD features which provides Real Estate Agents to Create, Read, Update, and Delete rental properties and messages. Google Auth provides a safe and easy way to login and MongoDB stores all user, property and message data. 
 	
 ## Technologies
 Project is created with:
