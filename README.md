@@ -14,10 +14,12 @@ Project is created with:
 * Refine / React
 * Material UI
 * Express
+* Node.js
 * MongoDB Atlas
 * Cloudinary
 * Axios
 * Google-OAuth 2.0
+* Figma (Styling)
 * Render (Backend deployment)
 * Netlify (Frontend deployment)
 	
